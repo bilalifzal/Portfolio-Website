@@ -497,6 +497,7 @@ navItems.forEach(item => {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
             <span>CSS3 & Flex</span>
         </div>
+       
         <div class="skill-item">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
             <span>JavaScript</span>
